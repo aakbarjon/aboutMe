@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @akbarjn
-- 👀 I’m interested in software...
-- 🌱 I’m currently learning SQL, Python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ebnazeem/ebnazeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Akbarjon @akbarjn
+- 👀 I’m interested in developing mobile applications for Android Operating System.
+- 🌱 I code mostly in Java and currently learning SQL and Python languages.
+- 💞️ I’m looking to collaborate on creating different Android applications
