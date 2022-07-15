@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Akbarjon @akbarjn
-- 👀 I’m interested in developing mobile applications for Android Operating System.
-- 🌱 I code mostly in Java and currently learning SQL and Python languages.
-- 💞️ I’m looking to collaborate on creating different Android applications
+- 👀 I’m interested in #tech, #cybersecurity
+- 🌱 My skills include Java, C++, SQL. 
