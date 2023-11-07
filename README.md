@@ -8,16 +8,16 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Network Architecture Projects</b>
-  - [Bank Network Infrastructure Design](https://github.com/akbarjn)
-  - [Hospital Network Infrastructure Design & Config](https://github.com/akbarjn)
+  - [Bank Network Infrastructure Design](https://github.com/aakbarjon)
+  - [Hospital Network Infrastructure Design & Config](https://github.com/aakbarjon)
     
 - <b>Cybersecurity Projects (Azure Siem, CTF, TryHackMe)</b>
   - [Azure Siem](https://github.com/akbarjn) 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/akbarjn)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/aakbarjon)
  
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/akbarjn)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/aakbarjon)
 
 
 
