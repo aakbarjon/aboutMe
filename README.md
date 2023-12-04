@@ -13,12 +13,6 @@
     
 - <b>Cybersecurity Projects </b>
   - [Azure Siem](https://github.com/akbarjn) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/aakbarjon)
- 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/aakbarjon)
-
 
 
 <h2> 🤳 Connect with me:</h2>
