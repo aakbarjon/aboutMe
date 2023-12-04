@@ -1,7 +1,7 @@
 <h1>Hi, I'm Akbarjon! <br/> <a href="https://www.linkedin.com/in/aakbarjon/">Cisco Certified Network Associate & Cybersecurity Enthusiast</a></h1>
 
 <h2> About me </h2>
-<b>🔭 Currently pursuing a Bachelor's degree in Computer Science (Class of 2024) <br> </b>
+<b>🔭 Bachelor's degree in Computer Science (Class of 2024) <br> </b>
 <b>🌱 Passionate about Networking, Cybersecurity & Cloud <br> </b>
 <b>🔍 Looking for Network Engineer and Cybersecurity Analyst internships <br> </b>
 
