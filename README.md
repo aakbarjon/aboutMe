@@ -7,11 +7,11 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Network Architecture Projects</b>
+- <b>Networking Projects </b>
   - [Bank Network Infrastructure Design](https://github.com/aakbarjon)
   - [Hospital Network Infrastructure Design & Config](https://github.com/aakbarjon)
     
-- <b>Cybersecurity Projects (Azure Siem, CTF, TryHackMe)</b>
+- <b>Cybersecurity Projects </b>
   - [Azure Siem](https://github.com/akbarjn) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/aakbarjon)
