@@ -13,7 +13,7 @@
   - [Hospital Network Infrastructure Design & Config](https://github.com/aakbarjon)
     
 - <b>Cybersecurity Projects </b>
-  - [Azure Siem](https://github.com/akbarjn) 
+  - [Honey Pot Deployment in Google Cloud](https://github.com/aakbarjon/Honey-Pot-Deployment-in-Google-Cloud) 
 
 
 <h2> 🤳 Connect with me:</h2>
