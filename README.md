@@ -13,7 +13,9 @@
   - [Hospital Network Infrastructure Design & Config](https://github.com/aakbarjon)
     
 - <b>Cybersecurity Projects </b>
-  - [Honey Pot Deployment in Google Cloud](https://github.com/aakbarjon/Honey-Pot-Deployment-in-Google-Cloud) 
+  - [Penetration Testing Live](https://github.com/aakbarjon/Penetration-Testing-Live-Websites)
+  - [Honey Pot Deployment in Google Cloud](https://github.com/aakbarjon/Honey-Pot-Deployment-in-Google-Cloud)
+  - [WordPress Penetration Testing] (https://github.com/aakbarjon/WordPress-Penetration-Testing)
 
 
 <h2> 🤳 Connect with me:</h2>
