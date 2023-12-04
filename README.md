@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 <b>🔭 Currently pursuing a Bachelor's degree in Computer Science (Class of 2024) <br> </b>
-<b>🌱 I hold CCNA, Comptia Security+ and Azure AZ-900 certifications <br> </b>
+<b>🌱 Passionate about Networking, Cybersecurity & Cloud <br> </b>
 <b>🔍 Looking for Network Engineer and Cybersecurity Analyst internships <br> </b>
 
 <h2>👨‍💻 My Projects:</h2>
