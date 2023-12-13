@@ -9,7 +9,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Networking Projects </b>
-  - [Bank Network Infrastructure Design](https://github.com/aakbarjon)
+  - [Campus LAN Network Implementation](https://github.com/aakbarjon/Campus-LAN-Network-Implementation)
   - [Hospital Network Infrastructure Design & Config](https://github.com/aakbarjon)
     
 - <b>Cybersecurity Projects </b>
