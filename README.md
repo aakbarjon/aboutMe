@@ -10,7 +10,7 @@
 
 - <b>Networking Projects </b>
   - [Campus LAN Network Implementation](https://github.com/aakbarjon/Campus-LAN-Network-Implementation)
-  - [Hospital Network Infrastructure Design & Config](https://github.com/aakbarjon)
+  - [Enterprise LAN Design and Deployment](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company)
     
 - <b>Cybersecurity Projects </b>
 
