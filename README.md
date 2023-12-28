@@ -3,7 +3,7 @@
 <h2> About me </h2>
 <b>✅ Cisco Certified Network Associate (CCNA) and CodePath Alumni '2022 <br> </b>
 <b>🔭 Bachelor's degree in Computer Science (Class of 2024) <br> </b>
-<b>🌱 Passionate about Networking, System Administration & Cloud <br> </b>
+<b>🌱 Passionate about Networking, System Administration, Cybersecurity & Cloud <br> </b>
 <b>🔍 Looking for Network, System and Cloud Admin Roles  <br> </b>
 
 <h2>👨‍💻 My Projects:</h2>
@@ -14,13 +14,8 @@
     
 - <b>Cybersecurity Projects </b>
 
-Project #1
   - [Penetration Testing Live](https://github.com/aakbarjon/Penetration-Testing-Live-Websites)
-
-Project #2
   - [Honey Pot Deployment in Google Cloud](https://github.com/aakbarjon/Honey-Pot-Deployment-in-Google-Cloud)
-
-Project #3
   - [WordPress Penetration Testing](https://github.com/aakbarjon/WordPress-Penetration-Testing)
 
 
